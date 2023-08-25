@@ -1,2 +1,2 @@
 # qrcode_app
-This is an QR code made by me. It consist of functionality of Scanning for WIFI, URL ,we can add more functionality to it.
+This is a QR code made by me. It consists of the functionality of Scanning for WIFI and URL, we can add more functionality.
